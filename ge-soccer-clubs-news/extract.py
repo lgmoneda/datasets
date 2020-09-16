@@ -34,6 +34,8 @@ SERIES_A_TEAMS = ["athletico-pr", "atletico-go", "atletico-mg",
                   "gremio", "internacional", "palmeiras", "santos", "sao-paulo",
                   "sport", "vasco", "cruzeiro"]
 
+SAVING_PATH = "~/Documents/ge_news/"
+
 def extract_news_from_page(page):
     html = requests.get(page).text
     soup = BeautifulSoup(html)
@@ -118,7 +120,7 @@ def extract_text_from_news_link(news_link, driver):
     return data
 
 def get_all_files_in_a_folder(team, full=False):
-    path = "data/{}".format(team)
+    path = "{}data/{}".format(SAVING_PATH, team)
 
     files = [f for f in glob.glob(path + "**/*.csv", recursive=True)]
 
@@ -147,9 +149,9 @@ def news_from_soccer_club(team, n_pages=2):
     driver.implicitly_wait(5)
 
     try:
-        data = pd.read_csv("data/{}.csv".format(team), index_col=False)
+        data = pd.read_csv("{}data/{}.csv".format(SAVING_PATH, team), index_col=False)
         downloaded = list(data["article_link"].values)
-        data.to_csv("data/backup-{}.csv".format(team), index=False)
+        data.to_csv("{}data/backup-{}.csv".format(SAVING_PATH, team), index=False)
     except:
         downloaded = []
         data = pd.DataFrame()
@@ -175,12 +177,12 @@ def news_from_soccer_club(team, n_pages=2):
             print("Couldn't get from {}".format(news_link))
         if i % 5 == 0:
             #print("Saving {} news".format(len(data)))
-            data.to_csv("data/{}.csv".format(team), index=False)
+            data.to_csv("{}data/{}.csv".format(SAVING_PATH, team), index=False)
 
     try:
         data["article_time"] = data["date"].apply(lambda x: x.strip().split(" ")[1] if not pd.isnull(x) else x)
         data["article_date"] = data["date"].apply(lambda x: x.strip().split(" ")[0] if not pd.isnull(x) else x)
-        data.to_csv("data/{}.csv".format(team), index=False)
+        data.to_csv("{}data/{}.csv".format(SAVING_PATH, team), index=False)
     except:
         print("no date")
 
@@ -203,7 +205,7 @@ def news_from_soccer_club_single(team, start_page, end_page):
     driver = webdriver.Firefox(options=options, executable_path="/usr/local/bin/geckodriver")
     driver.implicitly_wait(5)
 
-    directory = "data/{}".format(team)
+    directory = "{}data/{}".format(SAVING_PATH, team)
 
     if not os.path.isdir(directory):
         os.makedirs(directory, exist_ok=True)
@@ -229,7 +231,7 @@ def news_from_soccer_club_single(team, start_page, end_page):
     for i, news_link in enumerate(tqdm(news_links)):
         try:
             news_data = extract_text_from_news_link(news_link, driver)
-            news_data.to_csv("data/{}/{}.csv".format(team, prepare_link_to_filename(news_link)), index=False)
+            news_data.to_csv("{}data/{}/{}.csv".format(SAVING_PATH, team, prepare_link_to_filename(news_link)), index=False)
             #data = pd.concat([data, news_data], sort=True)
         except:
             print("Couldn't get from {}".format(news_link))
@@ -241,7 +243,7 @@ def news_from_soccer_club_single(team, start_page, end_page):
     try:
         data["article_time"] = data["date"].apply(lambda x: x.strip().split(" ")[1] if not pd.isnull(x) else x)
         data["article_date"] = data["date"].apply(lambda x: x.strip().split(" ")[0] if not pd.isnull(x) else x)
-        data.to_csv("data/{}.csv".format(team), index=False)
+        data.to_csv("{}data/{}.csv".format(SAVING_PATH, team), index=False)
     except:
         print("no date")
 
