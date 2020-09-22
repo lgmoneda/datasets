@@ -34,7 +34,7 @@ SERIES_A_TEAMS = ["athletico-pr", "atletico-go", "atletico-mg",
                   "gremio", "internacional", "palmeiras", "santos", "sao-paulo",
                   "sport", "vasco", "cruzeiro"]
 
-SAVING_PATH = "~/Documents/datasets/ge_news/"
+SAVING_PATH = "/Users/lgmoneda/Documents/datasets/ge_news/"
 
 def extract_news_from_page(page):
     html = requests.get(page).text
@@ -239,19 +239,19 @@ def news_from_soccer_club_single(team, start_page, end_page):
             #print("Saving {} news".format(len(data)))
             #data.to_csv("data/{}.csv".format(team), index=False)
 
-    data = aggregate_all_saved_sections_from_zones_files(team)
-    try:
-        data["article_time"] = data["date"].apply(lambda x: x.strip().split(" ")[1] if not pd.isnull(x) else x)
-        data["article_date"] = data["date"].apply(lambda x: x.strip().split(" ")[0] if not pd.isnull(x) else x)
-        data.to_csv("{}data/{}.csv".format(SAVING_PATH, team), index=False)
-    except:
-        print("no date")
+    # try:
+    #     data = aggregate_all_saved_sections_from_zones_files(team)
+    # try:
+    #     data["article_time"] = data["date"].apply(lambda x: x.strip().split(" ")[1] if not pd.isnull(x) else x)
+    #     data["article_date"] = data["date"].apply(lambda x: x.strip().split(" ")[0] if not pd.isnull(x) else x)
+    #     data.to_csv("{}data/{}.csv".format(SAVING_PATH, team), index=False)
+    # except:
+    #     print("no date")
 
 
     driver.close()
 
-
-    return data
+    return True
 
 def single_page_fetcher(team, update_pages):
     page = np.random.randint(1, update_pages, 1)[0]
@@ -266,25 +266,18 @@ if "__main__":
         for team in SERIES_A_TEAMS:
             print(team)
             for page_number in range(1, int(update_pages) + 1):
-                try:
-                    news_from_soccer_club_single(team,
-                                                 page_number,
-                                                 page_number + 1)
-                except:
-                    print(team)
+                news_from_soccer_club_single(team,
+                                             page_number,
+                                             page_number + 1)
+
     elif mode == "all":
         n_hits = sys.argv[3]
         for team in SERIES_A_TEAMS:
             for i in range(int(n_hits)):
-                try:
-                    single_page_fetcher(team, update_pages)
-                except:
-                    print("fail")
+                single_page_fetcher(team, update_pages)
+
     else:
         team = sys.argv[1]
         n_hits = sys.argv[3]
         for i in range(int(n_hits)):
-            try:
-                single_page_fetcher(team, update_pages)
-            except:
-                print("fail")
+            single_page_fetcher(team, update_pages)
