@@ -34,7 +34,7 @@ SERIES_A_TEAMS = ["athletico-pr", "atletico-go", "atletico-mg",
                   "gremio", "internacional", "palmeiras", "santos", "sao-paulo",
                   "sport", "vasco", "cruzeiro"]
 
-SAVING_PATH = "~/Documents/ge_news/"
+SAVING_PATH = "~/Documents/datasets/ge_news/"
 
 def extract_news_from_page(page):
     html = requests.get(page).text
