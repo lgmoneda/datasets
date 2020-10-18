@@ -1,0 +1,481 @@
+mandante,visitante,placar_mandante,placar_visitante,data,local,rodada,ano
+São Paulo,Botafogo,2,0,"SÁB, 27/04 16:00",Morumbi,1,2019
+Atlético-MG,Avaí,2,1,"SÁB, 27/04 19:00",Independência,1,2019
+Chapecoense,Internacional,2,0,"SÁB, 27/04 19:00",Arena Condá,1,2019
+Flamengo,Cruzeiro,3,1,"SÁB, 27/04 21:00",Maracanã,1,2019
+Grêmio,Santos,1,2,"DOM, 28/04 11:00",Arena do Grêmio,1,2019
+Ceará,CSA,4,0,"DOM, 28/04 16:00",Castelão (CE),1,2019
+Bahia,Corinthians,3,2,"DOM, 28/04 16:00",Fonte Nova,1,2019
+Athlético-PR,Vasco,4,1,"DOM, 28/04 16:00",Arena da Baixada,1,2019
+Palmeiras,Fortaleza,4,0,"DOM, 28/04 19:00",Arena Palmeiras,1,2019
+Fluminense,Goiás,0,1,"DOM, 28/04 19:00",Maracanã,1,2019
+Internacional,Flamengo,2,1,"QUA, 01/05 16:00",Beira-Rio,2,2019
+Corinthians,Chapecoense,1,0,"QUA, 01/05 16:00",Arena Corinthians,2,2019
+CSA,Palmeiras,1,1,"QUA, 01/05 16:00",Rei Pelé,2,2019
+Cruzeiro,Ceará,1,0,"QUA, 01/05 19:15",Mineirão,2,2019
+Avaí,Grêmio,1,1,"QUA, 01/05 19:15",Ressacada,2,2019
+Fortaleza,Athlético-PR,2,1,"QUA, 01/05 21:30",Castelão (CE),2,2019
+Vasco,Atlético-MG,1,2,"QUA, 01/05 21:30",São Januário,2,2019
+Goiás,São Paulo,1,2,"QUA, 01/05 21:30",Serra Dourada,2,2019
+Santos,Fluminense,2,1,"QUI, 02/05 19:15",Vila Belmiro,2,2019
+Botafogo,Bahia,3,2,"QUI, 02/05 20:00",Engenhão,2,2019
+Palmeiras,Internacional,1,0,"SÁB, 04/05 19:00",Arena Palmeiras,3,2019
+Vasco,Corinthians,1,1,"SÁB, 04/05 19:00",Arena da Amazônia,3,2019
+Ceará,Atlético-MG,1,2,"SÁB, 04/05 21:00",Castelão (CE),3,2019
+Chapecoense,Athlético-PR,1,1,"DOM, 05/05 11:00",Arena Condá,3,2019
+Cruzeiro,Goiás,2,1,"DOM, 05/05 16:00",Mineirão,3,2019
+São Paulo,Flamengo,1,1,"DOM, 05/05 16:00",Morumbi,3,2019
+Botafogo,Fortaleza,1,0,"DOM, 05/05 16:00",Engenhão,3,2019
+CSA,Santos,0,0,"DOM, 05/05 16:00",Rei Pelé,3,2019
+Grêmio,Fluminense,4,5,"DOM, 05/05 19:00",Arena do Grêmio,3,2019
+Bahia,Avaí,1,0,"DOM, 05/05 19:00",Fonte Nova,3,2019
+Fluminense,Botafogo,0,1,"SÁB, 11/05 16:00",Maracanã,4,2019
+Corinthians,Grêmio,0,0,"SÁB, 11/05 19:00",Arena Corinthians,4,2019
+Goiás,Ceará,2,1,"SÁB, 11/05 21:00",Serra Dourada,4,2019
+Flamengo,Chapecoense,2,1,"DOM, 12/05 11:00",Maracanã,4,2019
+Internacional,Cruzeiro,3,1,"DOM, 12/05 16:00",Beira-Rio,4,2019
+Atlético-MG,Palmeiras,0,2,"DOM, 12/05 16:00",Mineirão,4,2019
+Santos,Vasco,3,0,"DOM, 12/05 16:00",Pacaembu,4,2019
+Fortaleza,São Paulo,0,1,"DOM, 12/05 19:00",Castelão (CE),4,2019
+Avaí,CSA,0,0,"DOM, 12/05 19:00",Ressacada,4,2019
+Athlético-PR,Bahia,1,0,"DOM, 12/05 19:00",Arena da Baixada,4,2019
+Fluminense,Cruzeiro,4,1,"SÁB, 18/05 18:00",Maracanã,5,2019
+Atlético-MG,Flamengo,2,1,"SÁB, 18/05 19:00",Independência,5,2019
+Palmeiras,Santos,4,0,"SÁB, 18/05 19:00",Pacaembu,5,2019
+São Paulo,Bahia,0,0,"DOM, 19/05 11:00",Morumbi,5,2019
+Internacional,CSA,2,0,"DOM, 19/05 16:00",Beira-Rio,5,2019
+Chapecoense,Fortaleza,1,3,"DOM, 19/05 16:00",Arena Condá,5,2019
+Goiás,Botafogo,1,0,"DOM, 19/05 16:00",Serra Dourada,5,2019
+Athlético-PR,Corinthians,0,2,"DOM, 19/05 16:00",Arena da Baixada,5,2019
+Ceará,Grêmio,2,1,"DOM, 19/05 19:00",Castelão (CE),5,2019
+Vasco,Avaí,1,1,"DOM, 19/05 19:00",São Januário,5,2019
+Botafogo,Palmeiras,0,1,"SÁB, 25/05 16:00",Mané Garrincha,6,2019
+Grêmio,Atlético-MG,1,0,"SÁB, 25/05 19:00",Arena do Grêmio,6,2019
+Santos,Internacional,0,0,"DOM, 26/05 16:00",Vila Belmiro,6,2019
+Flamengo,Athlético-PR,3,2,"DOM, 26/05 16:00",Maracanã,6,2019
+Cruzeiro,Chapecoense,1,2,"DOM, 26/05 19:00",Independência,6,2019
+Fortaleza,Vasco,1,1,"DOM, 26/05 19:00",Castelão (CE),6,2019
+Corinthians,São Paulo,1,0,"DOM, 26/05 19:00",Arena Corinthians,6,2019
+Bahia,Fluminense,3,2,"DOM, 26/05 19:00",Fonte Nova,6,2019
+Avaí,Ceará,1,2,"SEG, 27/05 20:00",Ressacada,6,2019
+CSA,Goiás,1,0,"SEG, 27/05 20:00",Rei Pelé,6,2019
+Flamengo,Fortaleza,2,0,"SÁB, 01/06 16:00",Engenhão,7,2019
+Bahia,Grêmio,1,0,"SÁB, 01/06 19:00",Pituaçu,7,2019
+Corinthians,Goiás,,,"SÁB, 01/06 21:00",Arena Corinthians* (Partida não válida para a rodada),7,2019
+Botafogo,Vasco,1,0,"DOM, 02/06 11:00",Engenhão,7,2019
+Ceará,Santos,0,1,"DOM, 02/06 16:00",Castelão (CE),7,2019
+São Paulo,Cruzeiro,1,1,"DOM, 02/06 16:00",Pacaembu,7,2019
+Athlético-PR,Fluminense,3,0,"DOM, 02/06 16:00",Arena da Baixada,7,2019
+Internacional,Avaí,2,0,"DOM, 02/06 19:00",Beira-Rio,7,2019
+Atlético-MG,CSA,4,0,"DOM, 02/06 19:00",Independência,7,2019
+Chapecoense,Palmeiras,1,2,"DOM, 02/06 19:00",Arena Condá,7,2019
+Vasco,Internacional,2,1,"SEX, 07/06 20:30",São Januário,8,2019
+Palmeiras,Athlético-PR,1,0,"SÁB, 08/06 16:30",Arena Palmeiras,8,2019
+Grêmio,Fortaleza,1,0,"SÁB, 08/06 19:00",Centenário,8,2019
+Cruzeiro,Corinthians,0,0,"SÁB, 08/06 19:00",Mineirão,8,2019
+Ceará,Bahia,0,0,"SÁB, 08/06 19:30",Castelão (CE),8,2019
+Avaí,São Paulo,0,0,"SÁB, 08/06 21:00",Ressacada,8,2019
+Santos,Atlético-MG,3,1,"DOM, 09/06 19:00",Vila Belmiro,8,2019
+Fluminense,Flamengo,0,0,"DOM, 09/06 19:00",Maracanã,8,2019
+CSA,Botafogo,1,2,"DOM, 09/06 19:00",Rei Pelé,8,2019
+Goiás,Chapecoense,3,1,"SEG, 10/06 20:00",Serra Dourada,8,2019
+Botafogo,Grêmio,0,1,"QUA, 12/06 19:15",Engenhão,9,2019
+Fortaleza,Cruzeiro,2,1,"QUA, 12/06 21:00",Castelão (CE),9,2019
+Internacional,Bahia,3,1,"QUA, 12/06 21:30",Beira-Rio,9,2019
+Santos,Corinthians,1,0,"QUA, 12/06 21:30",Vila Belmiro,9,2019
+CSA,Flamengo,0,2,"QUA, 12/06 21:30",Mané Garrincha,9,2019
+Vasco,Ceará,1,0,"QUI, 13/06 19:15",São Januário,9,2019
+Atlético-MG,São Paulo,1,1,"QUI, 13/06 20:00",Independência,9,2019
+Palmeiras,Avaí,2,0,"QUI, 13/06 20:00",Arena Palmeiras,9,2019
+Chapecoense,Fluminense,1,1,"QUI, 13/06 20:00",Arena Condá,9,2019
+Goiás,Athlético-PR,2,1,"QUI, 13/06 20:00",Serra Dourada,9,2019
+Grêmio,Vasco,2,1,"SÁB, 13/07 17:00",Arena do Grêmio,10,2019
+Fortaleza,Avaí,2,0,"SÁB, 13/07 17:00",Castelão (CE),10,2019
+São Paulo,Palmeiras,1,1,"SÁB, 13/07 19:00",Morumbi,10,2019
+Bahia,Santos,0,1,"SÁB, 13/07 19:00",Pituaçu,10,2019
+Flamengo,Goiás,6,1,"DOM, 14/07 11:00",Maracanã,10,2019
+Cruzeiro,Botafogo,0,0,"DOM, 14/07 16:00",Mineirão,10,2019
+Corinthians,CSA,1,0,"DOM, 14/07 16:00",Arena Corinthians,10,2019
+Athlético-PR,Internacional,1,0,"DOM, 14/07 16:00",Arena da Baixada,10,2019
+Chapecoense,Atlético-MG,1,2,"DOM, 14/07 19:00",Arena Condá,10,2019
+Fluminense,Ceará,1,1,"SEG, 15/07 20:00",Maracanã,10,2019
+Vasco,Fluminense,2,1,"SÁB, 20/07 11:00",São Januário,11,2019
+Bahia,Cruzeiro,0,0,"SÁB, 20/07 17:00",Fonte Nova,11,2019
+Internacional,Grêmio,1,1,"SÁB, 20/07 19:00",Beira-Rio,11,2019
+Ceará,Palmeiras,2,0,"SÁB, 20/07 19:00",Castelão (CE),11,2019
+CSA,Athlético-PR,0,4,"SÁB, 20/07 19:00",Rei Pelé,11,2019
+Botafogo,Santos,0,1,"DOM, 21/07 11:00",Engenhão,11,2019
+Atlético-MG,Fortaleza,2,2,"DOM, 21/07 16:00",Independência,11,2019
+Corinthians,Flamengo,1,1,"DOM, 21/07 16:00",Arena Corinthians,11,2019
+Avaí,Goiás,0,0,"DOM, 21/07 19:00",Ressacada,11,2019
+São Paulo,Chapecoense,4,0,"SEG, 22/07 20:00",Morumbi,11,2019
+Palmeiras,Vasco,1,1,"SÁB, 27/07 17:00",Arena Palmeiras,12,2019
+Internacional,Ceará,1,0,"SÁB, 27/07 19:00",Beira-Rio,12,2019
+Cruzeiro,Athlético-PR,0,2,"SÁB, 27/07 19:00",Mineirão,12,2019
+Fluminense,São Paulo,1,2,"SÁB, 27/07 19:00",Maracanã,12,2019
+Chapecoense,Bahia,0,0,"DOM, 28/07 11:00",Arena Condá,12,2019
+Santos,Avaí,3,1,"DOM, 28/07 16:00",Vila Belmiro,12,2019
+Flamengo,Botafogo,3,2,"DOM, 28/07 16:00",Maracanã,12,2019
+Fortaleza,Corinthians,1,3,"DOM, 28/07 19:00",Castelão (CE),12,2019
+Goiás,Atlético-MG,0,0,"DOM, 28/07 19:00",Serra Dourada,12,2019
+CSA,Grêmio,0,0,"SEG, 29/07 20:00",Rei Pelé,12,2019
+Ceará,Fortaleza,2,1,"SÁB, 03/08 19:00",Castelão (CE),13,2019
+Fluminense,Internacional,2,1,"SÁB, 03/08 19:00",Maracanã,13,2019
+Santos,Goiás,6,1,"DOM, 04/08 11:00",Vila Belmiro,13,2019
+Avaí,Botafogo,0,2,"DOM, 04/08 16:00",Ressacada,13,2019
+Bahia,Flamengo,3,0,"DOM, 04/08 16:00",Fonte Nova,13,2019
+Atlético-MG,Cruzeiro,2,0,"DOM, 04/08 19:00",Independência,13,2019
+Corinthians,Palmeiras,1,1,"DOM, 04/08 19:00",Arena Corinthians,13,2019
+Vasco,CSA,0,0,"DOM, 04/08 19:00",Kleber Andrade,13,2019
+Grêmio,Chapecoense,3,3,"SEG, 05/08 20:00",Arena do Grêmio,13,2019
+Athlético-PR,São Paulo,,,"QUA, 21/08 19:15",Arena da Baixada* (Partida não válida para a rodada),13,2019
+Ceará,Chapecoense,4,1,"SÁB, 10/08 17:00",Castelão (CE),14,2019
+São Paulo,Santos,3,2,"SÁB, 10/08 17:00",Morumbi,14,2019
+Flamengo,Grêmio,3,1,"SÁB, 10/08 19:00",Maracanã,14,2019
+Atlético-MG,Fluminense,2,1,"SÁB, 10/08 21:00",Independência,14,2019
+Internacional,Corinthians,0,0,"DOM, 11/08 11:00",Beira-Rio,14,2019
+Palmeiras,Bahia,2,2,"DOM, 11/08 16:00",Arena Palmeiras,14,2019
+Botafogo,Athlético-PR,2,1,"DOM, 11/08 16:00",Engenhão,14,2019
+Avaí,Cruzeiro,2,2,"DOM, 11/08 16:00",Ressacada,14,2019
+Goiás,Vasco,0,1,"DOM, 11/08 19:00",Serra Dourada,14,2019
+CSA,Fortaleza,0,2,"SEG, 12/08 20:00",Rei Pelé,14,2019
+Fortaleza,Internacional,0,1,"SÁB, 17/08 17:00",Castelão (CE),15,2019
+Corinthians,Botafogo,2,0,"SÁB, 17/08 17:00",Arena Corinthians,15,2019
+Vasco,Flamengo,1,4,"SÁB, 17/08 19:00",Mané Garrincha,15,2019
+Athlético-PR,Atlético-MG,1,0,"SÁB, 17/08 19:00",Arena da Baixada,15,2019
+Grêmio,Palmeiras,1,1,"SÁB, 17/08 21:00",Arena do Grêmio,15,2019
+Cruzeiro,Santos,2,0,"DOM, 18/08 16:00",Mineirão,15,2019
+São Paulo,Ceará,1,0,"DOM, 18/08 16:00",Morumbi,15,2019
+Fluminense,CSA,0,1,"DOM, 18/08 16:00",Maracanã,15,2019
+Bahia,Goiás,1,1,"DOM, 18/08 16:00",Fonte Nova,15,2019
+Chapecoense,Avaí,1,0,"DOM, 18/08 19:00",Arena Condá,15,2019
+Atlético-MG,Bahia,0,1,"SÁB, 24/08 11:00",Independência,16,2019
+Grêmio,Athlético-PR,2,1,"SÁB, 24/08 17:00",Arena do Grêmio,16,2019
+Santos,Fortaleza,3,3,"DOM, 25/08 16:00",Vila Belmiro,16,2019
+Vasco,São Paulo,2,0,"DOM, 25/08 16:00",São Januário,16,2019
+Goiás,Internacional,2,1,"DOM, 25/08 16:00",Serra Dourada,16,2019
+Ceará,Flamengo,0,3,"DOM, 25/08 19:00",Castelão (CE),16,2019
+Avaí,Corinthians,1,1,"DOM, 25/08 19:00",Ressacada,16,2019
+CSA,Cruzeiro,1,1,"DOM, 25/08 19:00",Rei Pelé,16,2019
+Botafogo,Chapecoense,0,0,"SEG, 26/08 20:00",Engenhão,16,2019
+Palmeiras,Fluminense,,,"TER, 10/09 21:00",Pacaembu* (Partida não válida para a rodada),16,2019
+São Paulo,Grêmio,0,0,"SÁB, 31/08 11:00",Morumbi,17,2019
+Bahia,CSA,1,0,"SÁB, 31/08 17:00",Fonte Nova,17,2019
+Chapecoense,Santos,0,1,"SÁB, 31/08 19:00",Arena Condá,17,2019
+Athlético-PR,Ceará,1,0,"SÁB, 31/08 19:00",Arena da Baixada,17,2019
+Internacional,Botafogo,3,2,"SÁB, 31/08 21:00",Beira-Rio,17,2019
+Fortaleza,Goiás,2,0,"DOM, 01/09 16:00",Castelão (CE),17,2019
+Flamengo,Palmeiras,3,0,"DOM, 01/09 16:00",Maracanã,17,2019
+Cruzeiro,Vasco,1,0,"DOM, 01/09 19:00",Mineirão,17,2019
+Corinthians,Atlético-MG,1,0,"DOM, 01/09 19:00",Arena Corinthians,17,2019
+Fluminense,Avaí,0,1,"SEG, 02/09 20:00",Maracanã,17,2019
+Corinthians,Ceará,2,2,"SÁB, 07/09 11:00",Arena Corinthians,18,2019
+Vasco,Bahia,0,2,"SÁB, 07/09 11:00",São Januário,18,2019
+Fortaleza,Fluminense,0,1,"SÁB, 07/09 17:00",Castelão (CE),18,2019
+Avaí,Flamengo,0,3,"SÁB, 07/09 17:00",Mané Garrincha,18,2019
+Internacional,São Paulo,1,0,"SÁB, 07/09 19:00",Beira-Rio,18,2019
+Goiás,Palmeiras,1,2,"SÁB, 07/09 21:00",Serra Dourada,18,2019
+Cruzeiro,Grêmio,1,4,"DOM, 08/09 11:00",Independência,18,2019
+Santos,Athlético-PR,1,1,"DOM, 08/09 16:00",Vila Belmiro,18,2019
+Botafogo,Atlético-MG,2,1,"DOM, 08/09 16:00",Engenhão,18,2019
+CSA,Chapecoense,2,0,"DOM, 08/09 19:00",Rei Pelé,18,2019
+Flamengo,Santos,1,0,"SÁB, 14/09 17:00",Maracanã,19,2019
+Palmeiras,Cruzeiro,1,0,"SÁB, 14/09 19:00",Arena Palmeiras,19,2019
+Chapecoense,Vasco,1,2,"SÁB, 14/09 19:00",Arena Condá,19,2019
+Ceará,Botafogo,0,0,"SÁB, 14/09 21:00",Castelão (CE),19,2019
+Atlético-MG,Internacional,1,3,"DOM, 15/09 11:00",Independência,19,2019
+Athlético-PR,Avaí,0,1,"DOM, 15/09 11:00",Arena da Baixada,19,2019
+Grêmio,Goiás,3,0,"DOM, 15/09 16:00",Arena do Grêmio,19,2019
+Fluminense,Corinthians,1,0,"DOM, 15/09 16:00",Mané Garrincha,19,2019
+Bahia,Fortaleza,1,1,"DOM, 15/09 16:00",Fonte Nova,19,2019
+São Paulo,CSA,1,1,"DOM, 15/09 19:00",Morumbi,19,2019
+Botafogo,São Paulo,1,2,"SÁB, 21/09 11:00",Engenhão,20,2019
+Cruzeiro,Flamengo,1,2,"SÁB, 21/09 17:00",Mineirão,20,2019
+Corinthians,Bahia,2,1,"SÁB, 21/09 19:00",Arena Corinthians,20,2019
+Santos,Grêmio,0,3,"SÁB, 21/09 21:00",Vila Belmiro,20,2019
+Internacional,Chapecoense,1,0,"DOM, 22/09 11:00",Beira-Rio,20,2019
+Fortaleza,Palmeiras,0,1,"DOM, 22/09 16:00",Castelão (CE),20,2019
+Vasco,Athlético-PR,1,1,"DOM, 22/09 16:00",São Januário,20,2019
+CSA,Ceará,1,0,"DOM, 22/09 16:00",Rei Pelé,20,2019
+Goiás,Fluminense,3,0,"DOM, 22/09 19:00",Serra Dourada,20,2019
+Avaí,Atlético-MG,1,0,"SEG, 23/09 20:00",Ressacada,20,2019
+Ceará,Cruzeiro,0,0,"QUA, 25/09 19:30",Castelão (CE),21,2019
+São Paulo,Goiás,0,1,"QUA, 25/09 21:30",Morumbi,21,2019
+Flamengo,Internacional,3,1,"QUA, 25/09 21:30",Maracanã,21,2019
+Bahia,Botafogo,2,0,"QUA, 25/09 21:30",Fonte Nova,21,2019
+Palmeiras,CSA,6,2,"QUI, 26/09 19:15",Pacaembu,21,2019
+Grêmio,Avaí,6,1,"QUI, 26/09 20:00",Arena do Grêmio,21,2019
+Fluminense,Santos,1,1,"QUI, 26/09 20:00",Maracanã,21,2019
+Athlético-PR,Fortaleza,4,1,"QUI, 26/09 21:30",Arena da Baixada,21,2019
+Atlético-MG,Vasco,,,"QUA, 02/10 19:15",Independência* (Partida não válida para a rodada),21,2019
+Chapecoense,Corinthians,,,"QUA, 02/10 19:15",Arena Condá* (Partida não válida para a rodada),21,2019
+Flamengo,São Paulo,0,0,"SÁB, 28/09 19:00",Maracanã,22,2019
+Corinthians,Vasco,1,0,"DOM, 29/09 11:00",Arena Corinthians,22,2019
+Internacional,Palmeiras,1,1,"DOM, 29/09 16:00",Beira-Rio,22,2019
+Santos,CSA,2,0,"DOM, 29/09 16:00",Vila Belmiro,22,2019
+Fluminense,Grêmio,2,1,"DOM, 29/09 16:00",Maracanã,22,2019
+Atlético-MG,Ceará,2,1,"DOM, 29/09 19:00",Independência,22,2019
+Athlético-PR,Chapecoense,1,1,"DOM, 29/09 19:00",Arena da Baixada,22,2019
+Fortaleza,Botafogo,1,0,"SEG, 30/09 20:00",Castelão (CE),22,2019
+Avaí,Bahia,0,2,"SEG, 30/09 20:00",Ressacada,22,2019
+Goiás,Cruzeiro,1,0,"SEG, 30/09 20:00",Serra Dourada,22,2019
+São Paulo,Fortaleza,2,1,"SÁB, 05/10 17:00",Pacaembu,23,2019
+Vasco,Santos,0,1,"SÁB, 05/10 17:00",São Januário,23,2019
+Grêmio,Corinthians,0,0,"SÁB, 05/10 19:00",Arena do Grêmio,23,2019
+Bahia,Athlético-PR,1,2,"SÁB, 05/10 19:00",Fonte Nova,23,2019
+Cruzeiro,Internacional,1,1,"SÁB, 05/10 21:00",Mineirão,23,2019
+Chapecoense,Flamengo,0,1,"DOM, 06/10 11:00",Arena Condá,23,2019
+Ceará,Goiás,0,1,"DOM, 06/10 16:00",Castelão (CE),23,2019
+Palmeiras,Atlético-MG,1,1,"DOM, 06/10 16:00",Arena Palmeiras,23,2019
+Botafogo,Fluminense,0,1,"DOM, 06/10 16:00",Engenhão,23,2019
+CSA,Avaí,3,1,"DOM, 06/10 19:00",Rei Pelé,23,2019
+Botafogo,Goiás,3,1,"QUA, 09/10 19:15",Engenhão,24,2019
+CSA,Internacional,1,0,"QUA, 09/10 19:15",Rei Pelé,24,2019
+Fortaleza,Chapecoense,2,0,"QUA, 09/10 20:30",Castelão (CE),24,2019
+Grêmio,Ceará,2,1,"QUA, 09/10 21:00",Centenário,24,2019
+Bahia,São Paulo,0,0,"QUA, 09/10 21:00",Fonte Nova,24,2019
+Cruzeiro,Fluminense,0,0,"QUA, 09/10 21:30",Mineirão,24,2019
+Santos,Palmeiras,2,0,"QUA, 09/10 21:30",Vila Belmiro,24,2019
+Corinthians,Athlético-PR,2,2,"QUI, 10/10 19:15",Arena Corinthians,24,2019
+Avaí,Vasco,0,0,"QUI, 10/10 19:15",Ressacada,24,2019
+Flamengo,Atlético-MG,3,1,"QUI, 10/10 20:00",Maracanã,24,2019
+Goiás,CSA,1,0,"SÁB, 12/10 17:00",Serra Dourada,25,2019
+Fluminense,Bahia,2,0,"SÁB, 12/10 19:00",Maracanã,25,2019
+Palmeiras,Botafogo,1,0,"SÁB, 12/10 21:00",Pacaembu,25,2019
+Internacional,Santos,0,0,"DOM, 13/10 16:00",Beira-Rio,25,2019
+Ceará,Avaí,1,0,"DOM, 13/10 16:00",Castelão (CE),25,2019
+Vasco,Fortaleza,1,0,"DOM, 13/10 16:00",São Januário,25,2019
+Athlético-PR,Flamengo,0,2,"DOM, 13/10 16:00",Arena da Baixada,25,2019
+São Paulo,Corinthians,1,0,"DOM, 13/10 18:00",Morumbi,25,2019
+Atlético-MG,Grêmio,1,4,"DOM, 13/10 19:00",Independência,25,2019
+Chapecoense,Cruzeiro,1,1,"DOM, 13/10 19:00",Arena Condá,25,2019
+Grêmio,Bahia,0,1,"QUA, 16/10 19:15",Arena do Grêmio,26,2019
+CSA,Atlético-MG,2,2,"QUA, 16/10 19:15",Rei Pelé,26,2019
+Fortaleza,Flamengo,1,2,"QUA, 16/10 20:00",Castelão (CE),26,2019
+Cruzeiro,São Paulo,1,0,"QUA, 16/10 21:00",Mineirão,26,2019
+Palmeiras,Chapecoense,1,0,"QUA, 16/10 21:00",Arena Palmeiras,26,2019
+Vasco,Botafogo,2,1,"QUA, 16/10 21:30",São Januário,26,2019
+Goiás,Corinthians,2,2,"QUA, 16/10 21:30",Serra Dourada,26,2019
+Santos,Ceará,2,1,"QUI, 17/10 19:15",Vila Belmiro,26,2019
+Avaí,Internacional,0,2,"QUI, 17/10 19:15",Ressacada,26,2019
+Fluminense,Athlético-PR,1,2,"QUI, 17/10 21:00",Maracanã,26,2019
+Fortaleza,Grêmio,2,1,"SÁB, 19/10 17:00",Castelão (CE),27,2019
+Corinthians,Cruzeiro,1,2,"SÁB, 19/10 19:00",Arena Corinthians,27,2019
+Internacional,Vasco,0,1,"DOM, 20/10 16:00",Beira-Rio,27,2019
+Atlético-MG,Santos,2,0,"DOM, 20/10 16:00",Independência,27,2019
+São Paulo,Avaí,1,0,"DOM, 20/10 16:00",Morumbi,27,2019
+Flamengo,Fluminense,2,0,"DOM, 20/10 18:00",Maracanã,27,2019
+Chapecoense,Goiás,2,2,"DOM, 20/10 19:00",Arena Condá,27,2019
+Athlético-PR,Palmeiras,1,1,"DOM, 20/10 19:00",Arena da Baixada,27,2019
+Bahia,Ceará,1,2,"SEG, 21/10 19:30",Pituaçu,27,2019
+Botafogo,CSA,2,1,"SEG, 21/10 20:00",Engenhão,27,2019
+Ceará,Vasco,1,1,"SÁB, 26/10 17:00",Castelão (CE),28,2019
+Corinthians,Santos,0,0,"SÁB, 26/10 17:00",Arena Corinthians,28,2019
+Bahia,Internacional,2,3,"SÁB, 26/10 19:00",Fonte Nova,28,2019
+Fluminense,Chapecoense,1,1,"SÁB, 26/10 19:30",Maracanã,28,2019
+Cruzeiro,Fortaleza,1,1,"SÁB, 26/10 21:00",Mineirão,28,2019
+Grêmio,Botafogo,3,0,"DOM, 27/10 16:00",Arena do Grêmio,28,2019
+São Paulo,Atlético-MG,2,0,"DOM, 27/10 16:00",Morumbi,28,2019
+Athlético-PR,Goiás,4,1,"DOM, 27/10 16:00",Arena da Baixada,28,2019
+Avaí,Palmeiras,1,2,"DOM, 27/10 18:00",Ressacada,28,2019
+Flamengo,CSA,1,0,"DOM, 27/10 19:00",Maracanã,28,2019
+Atlético-MG,Chapecoense,0,2,"QUA, 30/10 19:30",Independência,29,2019
+Palmeiras,São Paulo,3,0,"QUA, 30/10 19:30",Arena Palmeiras,29,2019
+Avaí,Fortaleza,1,3,"QUA, 30/10 19:30",Ressacada,29,2019
+Ceará,Fluminense,2,0,"QUA, 30/10 21:30",Castelão (CE),29,2019
+Vasco,Grêmio,1,3,"QUA, 30/10 21:30",São Januário,29,2019
+CSA,Corinthians,2,1,"QUA, 30/10 21:30",Rei Pelé,29,2019
+Santos,Bahia,1,0,"QUI, 31/10 19:15",Vila Belmiro,29,2019
+Goiás,Flamengo,2,2,"QUI, 31/10 20:00",Serra Dourada,29,2019
+Internacional,Athlético-PR,1,1,"QUI, 31/10 21:30",Beira-Rio,29,2019
+Botafogo,Cruzeiro,0,2,"QUI, 31/10 21:30",Engenhão,29,2019
+Fortaleza,Atlético-MG,2,2,"SÁB, 02/11 17:00",Castelão (CE),30,2019
+Palmeiras,Ceará,1,0,"SÁB, 02/11 19:00",Arena Palmeiras,30,2019
+Fluminense,Vasco,0,0,"SÁB, 02/11 19:00",Maracanã,30,2019
+Chapecoense,São Paulo,0,3,"SÁB, 02/11 21:00",Arena Condá,30,2019
+Flamengo,Corinthians,4,1,"DOM, 03/11 16:00",Maracanã,30,2019
+Grêmio,Internacional,2,0,"DOM, 03/11 18:00",Arena do Grêmio,30,2019
+Athlético-PR,CSA,1,0,"DOM, 03/11 18:00",Arena da Baixada,30,2019
+Cruzeiro,Bahia,1,1,"DOM, 03/11 19:00",Mineirão,30,2019
+Santos,Botafogo,4,1,"DOM, 03/11 19:00",Vila Belmiro,30,2019
+Goiás,Avaí,2,0,"DOM, 03/11 19:30",Serra Dourada,30,2019
+Corinthians,Fortaleza,3,2,"QUA, 06/11 19:30",Arena Corinthians,31,2019
+Atlético-MG,Goiás,2,0,"QUA, 06/11 20:00",Mineirão,31,2019
+Avaí,Santos,1,2,"QUA, 06/11 21:00",Ressacada,31,2019
+Vasco,Palmeiras,1,2,"QUA, 06/11 21:30",São Januário,31,2019
+Bahia,Chapecoense,1,1,"QUA, 06/11 21:30",Fonte Nova,31,2019
+Athlético-PR,Cruzeiro,0,0,"QUA, 06/11 21:30",Arena da Baixada,31,2019
+Ceará,Internacional,2,0,"QUI, 07/11 19:30",Castelão (CE),31,2019
+São Paulo,Fluminense,0,2,"QUI, 07/11 19:30",Morumbi,31,2019
+Botafogo,Flamengo,0,1,"QUI, 07/11 20:00",Engenhão,31,2019
+Grêmio,CSA,2,1,"QUI, 07/11 21:00",Arena do Grêmio,31,2019
+Goiás,Santos,0,3,"SÁB, 09/11 17:00",Serra Dourada,32,2019
+Palmeiras,Corinthians,1,1,"SÁB, 09/11 19:00",Pacaembu,32,2019
+Internacional,Fluminense,2,1,"DOM, 10/11 16:00",Beira-Rio,32,2019
+Cruzeiro,Atlético-MG,0,0,"DOM, 10/11 16:00",Mineirão,32,2019
+São Paulo,Athlético-PR,0,1,"DOM, 10/11 16:00",Morumbi,32,2019
+Flamengo,Bahia,3,1,"DOM, 10/11 18:00",Maracanã,32,2019
+Fortaleza,Ceará,1,0,"DOM, 10/11 19:00",Castelão (CE),32,2019
+Chapecoense,Grêmio,0,1,"DOM, 10/11 19:00",Arena Condá,32,2019
+CSA,Vasco,0,3,"DOM, 10/11 19:00",Rei Pelé,32,2019
+Botafogo,Avaí,2,0,"SEG, 11/11 20:00",Engenhão,32,2019
+Santos,São Paulo,1,1,"SÁB, 16/11 17:00",Vila Belmiro,33,2019
+Fluminense,Atlético-MG,1,1,"SÁB, 16/11 19:00",Maracanã,33,2019
+Grêmio,Flamengo,0,1,"DOM, 17/11 16:00",Arena do Grêmio,33,2019
+Bahia,Palmeiras,1,1,"DOM, 17/11 16:00",Fonte Nova,33,2019
+Corinthians,Internacional,0,0,"DOM, 17/11 18:00",Arena Corinthians,33,2019
+Chapecoense,Ceará,1,0,"DOM, 17/11 18:00",Arena Condá,33,2019
+Athlético-PR,Botafogo,1,0,"DOM, 17/11 18:00",Arena da Baixada,33,2019
+Fortaleza,CSA,3,0,"DOM, 17/11 19:00",Castelão (CE),33,2019
+Vasco,Goiás,1,1,"SEG, 18/11 19:30",São Januário,33,2019
+Cruzeiro,Avaí,0,0,"SEG, 18/11 20:00",Mineirão,33,2019
+Flamengo,Vasco,4,4,"QUA, 13/11 21:30",Maracanã* (Partida não válida para a rodada),34,2019
+Santos,Cruzeiro,4,1,"SÁB, 23/11 21:00",Vila Belmiro,34,2019
+Atlético-MG,Athlético-PR,0,1,"DOM, 24/11 16:00",Mineirão,34,2019
+Palmeiras,Grêmio,1,2,"DOM, 24/11 16:00",Arena Palmeiras,34,2019
+Goiás,Bahia,4,3,"DOM, 24/11 16:00",Serra Dourada,34,2019
+Botafogo,Corinthians,1,0,"DOM, 24/11 18:00",Engenhão,34,2019
+Internacional,Fortaleza,2,2,"DOM, 24/11 19:00",Beira-Rio,34,2019
+Ceará,São Paulo,1,1,"DOM, 24/11 19:00",Castelão (CE),34,2019
+Avaí,Chapecoense,0,1,"DOM, 24/11 19:00",Ressacada,34,2019
+CSA,Fluminense,0,1,"SEG, 25/11 20:00",Rei Pelé,34,2019
+Internacional,Goiás,1,2,"QUA, 27/11 19:30",Beira-Rio,35,2019
+Chapecoense,Botafogo,0,1,"QUA, 27/11 19:30",Arena Condá,35,2019
+Bahia,Atlético-MG,1,1,"QUA, 27/11 21:00",Fonte Nova,35,2019
+Corinthians,Avaí,3,0,"QUA, 27/11 21:30",Arena Corinthians,35,2019
+Flamengo,Ceará,4,1,"QUA, 27/11 21:30",Maracanã,35,2019
+Athlético-PR,Grêmio,2,0,"QUA, 27/11 21:30",Arena da Baixada,35,2019
+Fluminense,Palmeiras,1,0,"QUI, 28/11 19:30",Maracanã,35,2019
+Fortaleza,Santos,2,1,"QUI, 28/11 20:00",Castelão (CE),35,2019
+São Paulo,Vasco,1,0,"QUI, 28/11 20:30",Morumbi,35,2019
+Cruzeiro,CSA,0,1,"QUI, 28/11 21:30",Mineirão,35,2019
+Ceará,Athlético-PR,1,1,"SÁB, 30/11 19:00",Castelão (CE),36,2019
+Botafogo,Internacional,0,1,"SÁB, 30/11 19:00",Engenhão,36,2019
+Palmeiras,Flamengo,1,3,"DOM, 01/12 16:00",Arena Palmeiras,36,2019
+Avaí,Fluminense,1,1,"DOM, 01/12 16:00",Ressacada,36,2019
+Goiás,Fortaleza,1,2,"DOM, 01/12 16:00",Serra Dourada,36,2019
+Atlético-MG,Corinthians,2,1,"DOM, 01/12 18:00",Independência,36,2019
+CSA,Bahia,1,2,"DOM, 01/12 18:00",Rei Pelé,36,2019
+Grêmio,São Paulo,3,0,"DOM, 01/12 19:00",Arena do Grêmio,36,2019
+Santos,Chapecoense,2,0,"DOM, 01/12 19:00",Vila Belmiro,36,2019
+Vasco,Cruzeiro,1,0,"SEG, 02/12 20:00",São Januário,36,2019
+Athlético-PR,Santos,1,0,"QUA, 04/12 19:00",Arena da Baixada,37,2019
+Atlético-MG,Botafogo,2,0,"QUA, 04/12 19:30",Mineirão,37,2019
+Ceará,Corinthians,0,1,"QUA, 04/12 19:30",Castelão (CE),37,2019
+Chapecoense,CSA,3,0,"QUA, 04/12 21:00",Arena Condá,37,2019
+São Paulo,Internacional,2,1,"QUA, 04/12 21:30",Morumbi,37,2019
+Fluminense,Fortaleza,0,0,"QUA, 04/12 21:30",Maracanã,37,2019
+Grêmio,Cruzeiro,2,0,"QUI, 05/12 19:15",Arena do Grêmio,37,2019
+Palmeiras,Goiás,5,1,"QUI, 05/12 19:15",Brinco de Ouro,37,2019
+Bahia,Vasco,1,1,"QUI, 05/12 19:15",Fonte Nova,37,2019
+Flamengo,Avaí,6,1,"QUI, 05/12 20:00",Maracanã,37,2019
+Internacional,Atlético-MG,2,1,"DOM, 08/12 16:00",Beira-Rio,38,2019
+Cruzeiro,Palmeiras,0,2,"DOM, 08/12 16:00",Mineirão,38,2019
+Fortaleza,Bahia,2,1,"DOM, 08/12 16:00",Castelão (CE),38,2019
+Corinthians,Fluminense,1,2,"DOM, 08/12 16:00",Arena Corinthians,38,2019
+Santos,Flamengo,4,0,"DOM, 08/12 16:00",Vila Belmiro,38,2019
+Vasco,Chapecoense,1,1,"DOM, 08/12 16:00",Maracanã,38,2019
+Botafogo,Ceará,1,1,"DOM, 08/12 16:00",Engenhão,38,2019
+Avaí,Athlético-PR,0,0,"DOM, 08/12 16:00",Ressacada,38,2019
+Goiás,Grêmio,3,2,"DOM, 08/12 16:00",Serra Dourada,38,2019
+CSA,São Paulo,1,2,"DOM, 08/12 16:00",Rei Pelé,38,2019
+Fortaleza,Athlético-PR,0.0,2.0,"SÁB, 08/08 19:00",Castelão (CE),1,2020
+Coritiba,Internacional,0.0,1.0,"SÁB, 08/08 19:30",Couto Pereira,1,2020
+Sport,Ceará,3.0,2.0,"SÁB, 08/08 21:00",Ilha do Retiro,1,2020
+Botafogo,Bahia,,,"DOM, 09/08 11:00",JOGO ADIADO* (Partida não válida para a rodada),1,2020
+Flamengo,Atlético-MG,0.0,1.0,"DOM, 09/08 16:00",Maracanã,1,2020
+Santos,Bragantino,1.0,1.0,"DOM, 09/08 16:00",Vila Belmiro,1,2020
+Corinthians,Atlético-GO,,,"DOM, 09/08 16:00",JOGO ADIADO* (Partida não válida para a rodada),1,2020
+Goiás,São Paulo,,,"DOM, 09/08 16:00",JOGO ADIADO* (Partida não válida para a rodada),1,2020
+Grêmio,Fluminense,1.0,0.0,"DOM, 09/08 19:00",Arena do Grêmio,1,2020
+Palmeiras,Vasco,,,"DOM, 09/08 19:45",JOGO ADIADO* (Partida não válida para a rodada),1,2020
+Bragantino,Botafogo,1.0,1.0,"QUA, 12/08 19:15",Nabi Abi Chedid,2,2020
+Atlético-MG,Corinthians,3.0,2.0,"QUA, 12/08 19:15",Mineirão,2,2020
+Athlético-PR,Goiás,2.0,1.0,"QUA, 12/08 19:15",Arena da Baixada,2,2020
+Bahia,Coritiba,1.0,0.0,"QUA, 12/08 20:30",Pituaçu,2,2020
+Atlético-GO,Flamengo,3.0,0.0,"QUA, 12/08 20:30",Olímpico (GO),2,2020
+Fluminense,Palmeiras,1.0,1.0,"QUA, 12/08 21:30",Maracanã,2,2020
+Ceará,Grêmio,1.0,1.0,"QUA, 12/08 21:30",Castelão (CE),2,2020
+São Paulo,Fortaleza,1.0,0.0,"QUI, 13/08 19:15",Morumbi,2,2020
+Internacional,Santos,2.0,0.0,"QUI, 13/08 19:30",Beira-Rio,2,2020
+Vasco,Sport,2.0,0.0,"QUI, 13/08 20:00",São Januário,2,2020
+Grêmio,Corinthians,0.0,0.0,"SÁB, 15/08 19:00",Arena do Grêmio,3,2020
+Coritiba,Flamengo,0.0,1.0,"SÁB, 15/08 19:30",Couto Pereira,3,2020
+Palmeiras,Goiás,1.0,1.0,"SÁB, 15/08 21:30",Arena Palmeiras,3,2020
+Atlético-MG,Ceará,2.0,0.0,"DOM, 16/08 11:00",Mineirão,3,2020
+Vasco,São Paulo,2.0,1.0,"DOM, 16/08 16:00",São Januário,3,2020
+Bahia,Bragantino,2.0,1.0,"DOM, 16/08 16:00",Pituaçu,3,2020
+Fluminense,Internacional,2.0,1.0,"DOM, 16/08 18:00",Maracanã,3,2020
+Atlético-GO,Sport,1.0,1.0,"DOM, 16/08 19:00",Olímpico (GO),3,2020
+Fortaleza,Botafogo,0.0,0.0,"DOM, 16/08 19:30",Castelão (CE),3,2020
+Santos,Athlético-PR,3.0,1.0,"DOM, 16/08 19:45",Vila Belmiro,3,2020
+Flamengo,Grêmio,1.0,1.0,"QUA, 19/08 19:15",Maracanã,4,2020
+Bragantino,Fluminense,2.0,1.0,"QUA, 19/08 19:15",Nabi Abi Chedid,4,2020
+Athlético-PR,Palmeiras,0.0,1.0,"QUA, 19/08 19:30",Arena da Baixada,4,2020
+Internacional,Atlético-GO,3.0,0.0,"QUA, 19/08 20:30",Beira-Rio,4,2020
+Goiás,Fortaleza,1.0,3.0,"QUA, 19/08 20:30",Serrinha,4,2020
+Botafogo,Atlético-MG,2.0,1.0,"QUA, 19/08 21:30",Nilton Santos (Engenhão),4,2020
+Corinthians,Coritiba,3.0,1.0,"QUA, 19/08 21:30",Arena Corinthians,4,2020
+Sport,Santos,0.0,1.0,"QUI, 20/08 19:15",Ilha do Retiro,4,2020
+São Paulo,Bahia,1.0,1.0,"QUI, 20/08 20:00",Morumbi,4,2020
+Ceará,Vasco,0.0,3.0,"QUI, 20/08 20:00",Castelão (CE),4,2020
+Athlético-PR,Fluminense,0.0,1.0,"SÁB, 22/08 16:00",Arena da Baixada,5,2020
+Internacional,Atlético-MG,1.0,0.0,"SÁB, 22/08 19:00",Beira-Rio,5,2020
+Goiás,Atlético-GO,2.0,0.0,"SÁB, 22/08 21:00",Serrinha,5,2020
+Flamengo,Botafogo,1.0,1.0,"DOM, 23/08 11:00",Maracanã,5,2020
+Vasco,Grêmio,0.0,0.0,"DOM, 23/08 16:00",São Januário,5,2020
+Palmeiras,Santos,2.0,1.0,"DOM, 23/08 16:00",Morumbi,5,2020
+Bragantino,Coritiba,1.0,2.0,"DOM, 23/08 16:00",Nabi Abi Chedid,5,2020
+Sport,São Paulo,0.0,1.0,"DOM, 23/08 19:00",Ilha do Retiro,5,2020
+Ceará,Bahia,2.0,0.0,"DOM, 23/08 20:00",Castelão (CE),5,2020
+Corinthians,Fortaleza,1.0,1.0,"QUA, 26/08 21:30",Arena Corinthians,5,2020
+Atlético-MG,Athlético-PR,,,"SÁB, 29/08 16:00",Mineirão* (Partida não válida para a rodada),6,2020
+Botafogo,Internacional,0.0,2.0,"SÁB, 29/08 17:00",Nilton Santos (Engenhão),6,2020
+Fluminense,Vasco,2.0,1.0,"SÁB, 29/08 19:00",Maracanã,6,2020
+Bahia,Palmeiras,1.0,1.0,"SÁB, 29/08 19:00",Pituaçu,6,2020
+Fortaleza,Bragantino,3.0,0.0,"SÁB, 29/08 21:00",Castelão (CE),6,2020
+São Paulo,Corinthians,2.0,1.0,"DOM, 30/08 11:00",Morumbi,6,2020
+Santos,Flamengo,0.0,1.0,"DOM, 30/08 16:00",Vila Belmiro,6,2020
+Coritiba,Sport,1.0,0.0,"DOM, 30/08 16:00",Couto Pereira,6,2020
+Atlético-GO,Ceará,0.0,2.0,"DOM, 30/08 18:00",Olímpico (GO),6,2020
+Grêmio,Goiás,,,"DOM, 30/08 19:00",Arena do Grêmio* (Partida não válida para a rodada),6,2020
+Ceará,Fortaleza,1.0,0.0,"QUA, 02/09 19:00",Castelão (CE),7,2020
+Fluminense,Atlético-GO,1.0,1.0,"QUA, 02/09 19:15",Maracanã,7,2020
+Goiás,Corinthians,1.0,2.0,"QUA, 02/09 19:15",Serrinha,7,2020
+Botafogo,Coritiba,0.0,0.0,"QUA, 02/09 20:30",Nilton Santos (Engenhão),7,2020
+Bahia,Flamengo,3.0,5.0,"QUA, 02/09 20:30",Pituaçu,7,2020
+Athlético-PR,Bragantino,1.0,1.0,"QUA, 02/09 20:30",Arena da Baixada,7,2020
+Palmeiras,Internacional,1.0,1.0,"QUA, 02/09 21:30",Arena Palmeiras,7,2020
+Santos,Vasco,2.0,2.0,"QUA, 02/09 21:30",Vila Belmiro,7,2020
+Grêmio,Sport,1.0,2.0,"QUI, 03/09 19:00",Arena do Grêmio,7,2020
+Atlético-MG,São Paulo,3.0,0.0,"QUI, 03/09 20:00",Mineirão,7,2020
+Flamengo,Fortaleza,2.0,1.0,"SÁB, 05/09 17:00",Maracanã,8,2020
+Corinthians,Botafogo,2.0,2.0,"SÁB, 05/09 19:00",Neo Química Arena,8,2020
+Ceará,Santos,0.0,1.0,"SÁB, 05/09 21:00",Castelão (CE),8,2020
+Bragantino,Palmeiras,1.0,2.0,"DOM, 06/09 11:00",Nabi Abi Chedid,8,2020
+São Paulo,Fluminense,3.0,1.0,"DOM, 06/09 16:00",Morumbi,8,2020
+Internacional,Bahia,2.0,2.0,"DOM, 06/09 16:00",Beira-Rio,8,2020
+Vasco,Athlético-PR,1.0,0.0,"DOM, 06/09 18:00",São Januário,8,2020
+Atlético-GO,Grêmio,1.0,1.0,"DOM, 06/09 19:00",Olímpico (GO),8,2020
+Sport,Goiás,2.0,1.0,"DOM, 06/09 20:30",Ilha do Retiro,8,2020
+Coritiba,Atlético-MG,0.0,1.0,"DOM, 06/09 20:30",Couto Pereira,8,2020
+Athlético-PR,Botafogo,1.0,1.0,"QUA, 09/09 17:30",Arena da Baixada,9,2020
+Fortaleza,Sport,1.0,0.0,"QUA, 09/09 18:00",Castelão (CE),9,2020
+Goiás,Coritiba,3.0,3.0,"QUA, 09/09 18:00",Serrinha,9,2020
+São Paulo,Bragantino,1.0,1.0,"QUA, 09/09 19:15",Morumbi,9,2020
+Fluminense,Flamengo,1.0,2.0,"QUA, 09/09 21:30",Maracanã,9,2020
+Santos,Atlético-MG,3.0,1.0,"QUA, 09/09 21:30",Vila Belmiro,9,2020
+Corinthians,Palmeiras,0.0,2.0,"QUI, 10/09 19:15",Neo Química Arena,9,2020
+Internacional,Ceará,2.0,0.0,"QUI, 10/09 19:15",Beira-Rio,9,2020
+Bahia,Grêmio,0.0,2.0,"QUI, 10/09 19:15",Pituaçu,9,2020
+Vasco,Atlético-GO,1.0,2.0,"QUI, 10/09 21:00",São Januário,9,2020
+Athlético-PR,Coritiba,1.0,0.0,"SÁB, 12/09 16:30",Arena da Baixada,10,2020
+Santos,São Paulo,2.0,2.0,"SÁB, 12/09 19:00",Vila Belmiro,10,2020
+Fluminense,Corinthians,2.0,1.0,"DOM, 13/09 16:00",Maracanã,10,2020
+Grêmio,Fortaleza,1.0,1.0,"DOM, 13/09 16:00",Arena do Grêmio,10,2020
+Atlético-MG,Bragantino,2.0,1.0,"DOM, 13/09 18:00",Mineirão,10,2020
+Bahia,Atlético-GO,0.0,1.0,"DOM, 13/09 18:00",Pituaçu,10,2020
+Ceará,Flamengo,2.0,0.0,"DOM, 13/09 18:00",Castelão (CE),10,2020
+Goiás,Internacional,1.0,0.0,"DOM, 13/09 18:00",Serrinha,10,2020
+Palmeiras,Sport,2.0,2.0,"DOM, 13/09 19:45",Allianz Parque,10,2020
+Botafogo,Vasco,2.0,3.0,"DOM, 13/09 20:30",Nilton Santos (Engenhão),10,2020
