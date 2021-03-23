@@ -86,7 +86,7 @@ def content_sportv(soup):
 
 def extract_text_from_news_link(news_link, driver):
     html = get_full_html_from_news(news_link, driver)
-    soup = BeautifulSoup(html)
+    soup = BeautifulSoup(html, features="lxml")
 
     try:
         date = soup.find_all("time")[0].text
@@ -105,6 +105,10 @@ def extract_text_from_news_link(news_link, driver):
         if len(content) == 0:
             content = soup.find_all("div",
                                 {"class": "materia-conteudo entry-content"})
+
+            if len(content) == 0:
+                content = soup.find_all("div",
+                                {"class": "mc-article-body"})
 
         paragraphs = content[0].findChildren("p", recursive=True)
 
@@ -206,6 +210,7 @@ def news_from_soccer_club_single(team, start_page, end_page):
     driver.implicitly_wait(5)
 
     directory = "{}data/{}".format(SAVING_PATH, team)
+
 
     if not os.path.isdir(directory):
         os.makedirs(directory, exist_ok=True)
